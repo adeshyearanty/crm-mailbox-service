@@ -1,0 +1,9 @@
+node_modules
+dist
+.env.development
+.env.staging
+.env.production
+Dockerfile
+.dockerignore
+.git
+.gitignore
